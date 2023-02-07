@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blxdes00&label=Profile%20views&color=0e75b6&style=flat" alt="blxdes00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blxdes00" alt="blxdes00" /></a> </p>
-
 - I’m currently working on [Vanity-Webhook-Tool](https://github.com/blxdes00/Vanity-Webhook-Tool)
 
 <h3 align="left">Connect with me:</h3>
