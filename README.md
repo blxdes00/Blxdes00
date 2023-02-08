@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Blxdes</h1>
-<h3 align="center">A 14 year old devfrom Germany</h3>
+<h3 align="center">A 14 year old dev from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blxdes00&label=Profile%20views&color=0e75b6&style=flat" alt="blxdes00" /> </p>
 
